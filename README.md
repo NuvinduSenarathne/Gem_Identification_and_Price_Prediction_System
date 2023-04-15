@@ -1,4 +1,4 @@
-# Gem-Identification-Price-Prediction-System
+# Gem Identification and Price Prediction System
 ## Gem Identification and Price prediction using Machine learning Approaches.
 ### 4<sup>th</sup> Year Research project of Sri Lanka Institute Of Information Technology(SLIIT)
 
