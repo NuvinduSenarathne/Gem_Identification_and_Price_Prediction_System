@@ -8,9 +8,9 @@
             	4. Muditha Diunugala (IT 20 2333 58)
 
 ### Supervision:
-            	1. [Samadhi Rathnayake](samadhi.r@sliit.lk)
-            	2. [Pipuni Wijesiri](pipuni.w@sliit.lk)
-            	3. [Gamini Gunaseela](migotogem@gmail.com)
+            	1. Samadhi Rathnayake (samadhi.r@sliit.lk)
+            	2. Pipuni Wijesiri (pipuni.w@sliit.lk)
+            	3. Gamini Gunaseela (migotogem@gmail.com)
 
 ### Project Description:
 The gemstone industry in Sri Lanka faces several challenges, including the manual evaluation and grading process, which is prone to human error and inconsistencies. To address this issue, a research project has been initiated to develop a system that automates the gemstone identification and price prediction process. This system aims to bring significant benefits to the industry by improving accuracy and efficiency, reducing the risk of human error, and providing a more objective and scientific approach to gemstone evaluation.<br><br>
