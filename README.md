@@ -2,13 +2,13 @@
 ## Gem Identification and Price prediction using Machine learning Approaches.
 ### 4<sup>th</sup> Year Research project of Sri Lanka Institute Of Information Technology(SLIIT)
 
-###Group Members:
+### Group Members:
             1. Nuvindu Senarathne (IT 19 2015 42)
             2. Kanjana Epitawatta (IT 20 0850 94)
             3. Kusalani Thennakoon (IT 20 7090 20)
             4. Muditha Diunugala (IT 20 2333 58)
 
-###Project Description:
+### Project Description:
 The gemstone industry in Sri Lanka faces several challenges, including the manual evaluation and grading process, which is prone to human error and inconsistencies. To address this issue, a research project has been initiated to develop a system that automates the gemstone identification and price prediction process. This system aims to bring significant benefits to the industry by improving accuracy and efficiency, reducing the risk of human error, and providing a more objective and scientific approach to gemstone evaluation.
 The system will use machine learning and computer vision to perform the following tasks: 
 						1. Identify the color and clarity of gemstones.
