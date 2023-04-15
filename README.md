@@ -2,7 +2,7 @@
 ## Gem Identification and Price prediction using Machine learning Approaches.
 ### 4<sup>th</sup> Year Research project of Sri Lanka Institute Of Information Technology(SLIIT)
 
-***Group Members:***
+***Group Members:***<br>
             1. Nuvindu Senarathne (IT 19 2015 42)
             2. Kanjana Epitawatta (IT 20 0850 94)
             3. Kusalani Thennakoon (IT 20 7090 20)
