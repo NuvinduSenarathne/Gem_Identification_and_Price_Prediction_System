@@ -26,6 +26,11 @@ In addition to improving the evaluation process, the system's ability to predict
 
 ### Publications:
 
+### Publications:
+
+1. [IRJIET Journal]([https://doi.org/10.47001/IRJIET/2023.710054](https://irjiet.com/Volume-7/Issue-10-October-2023/-Gemo-An-AI-Powered-Approach-to-Color-Clarity-Cut-Prediction-and-Valuation-for-Gemstones/1885))
+
+
 [IRJIET Journal]([https://doi.org/10.47001/IRJIET/2023.710054](https://irjiet.com/Volume-7/Issue-10-October-2023/-Gemo-An-AI-Powered-Approach-to-Color-Clarity-Cut-Prediction-and-Valuation-for-Gemstones/1885))
 
 
