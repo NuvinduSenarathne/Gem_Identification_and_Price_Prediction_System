@@ -26,6 +26,7 @@ In addition to improving the evaluation process, the system's ability to predict
 
 ### Publications:
 
-		1. [IRJIET Jouurnal](https://doi.org/10.47001/IRJIET/2023.710054)
+[IRJIET Journal]([https://doi.org/10.47001/IRJIET/2023.710054](https://irjiet.com/Volume-7/Issue-10-October-2023/-Gemo-An-AI-Powered-Approach-to-Color-Clarity-Cut-Prediction-and-Valuation-for-Gemstones/1885))
+
 
 In conclusion, the development of a system that automates the gemstone identification and price prediction process is expected to bring significant benefits to the industry in Sri Lanka. By improving accuracy and efficiency, reducing the risk of human error, and providing valuable market insights, the system will play a critical role in supporting the growth and competitiveness of the gemstone industry.
