@@ -23,4 +23,9 @@ The system will use machine learning and computer vision to perform the followin
 
 By automating the evaluation process, the system is expected to reduce the dependence on human expertise and personal biases, ensuring a more accurate and consistent evaluation of gemstones.<br>
 In addition to improving the evaluation process, the system's ability to predict future market trends will provide valuable insights and decision-making support for industry stakeholders. This will enable industry participants to make informed decisions and plan for the future, improving their competitiveness and driving growth in the industry.<br>
+
+### Publications:
+
+		1. [IRJIET Jouurnal](https://doi.org/10.47001/IRJIET/2023.710054)
+
 In conclusion, the development of a system that automates the gemstone identification and price prediction process is expected to bring significant benefits to the industry in Sri Lanka. By improving accuracy and efficiency, reducing the risk of human error, and providing valuable market insights, the system will play a critical role in supporting the growth and competitiveness of the gemstone industry.
