@@ -13,7 +13,7 @@
             	3. Gamini Gunaseela (migotogem@gmail.com)
 
 ### Project Description:
-The gemstone industry in Sri Lanka faces several challenges, including the manual evaluation and grading process, which is prone to human error and inconsistencies. To address this issue, a research project has been initiated to develop a system that automates the gemstone identification and price prediction process. This system aims to bring significant benefits to the industry by improving accuracy and efficiency, reducing the risk of human error, and providing a more objective and scientific approach to gemstone evaluation.<br><br>
+<p>The gemstone industry in Sri Lanka faces several challenges, including the manual evaluation and grading process, which is prone to human error and inconsistencies. To address this issue, a research project has been initiated to develop a system that automates the gemstone identification and price prediction process. This system aims to bring significant benefits to the industry by improving accuracy and efficiency, reducing the risk of human error, and providing a more objective and scientific approach to gemstone evaluation.<br><br></p>
 The system will use machine learning and computer vision to perform the following tasks:
 
 		1. Identify the color and clarity of gemstones (IT 20 0850 94)
@@ -21,13 +21,11 @@ The system will use machine learning and computer vision to perform the followin
 		3. Provide gem recommendations to industry stakeholders (IT 20 7090 20)
 		4. Predict future market trends for the gemstone industry (IT 20 2333 58)
 
-By automating the evaluation process, the system is expected to reduce the dependence on human expertise and personal biases, ensuring a more accurate and consistent evaluation of gemstones.<br>
-In addition to improving the evaluation process, the system's ability to predict future market trends will provide valuable insights and decision-making support for industry stakeholders. This will enable industry participants to make informed decisions and plan for the future, improving their competitiveness and driving growth in the industry.<br>
+<p>By automating the evaluation process, the system is expected to reduce the dependence on human expertise and personal biases, ensuring a more accurate and consistent evaluation of gemstones.<br>
+In addition to improving the evaluation process, the system's ability to predict future market trends will provide valuable insights and decision-making support for industry stakeholders. This will enable industry participants to make informed decisions and plan for the future, improving their competitiveness and driving growth in the industry.<br></p>
+
+<p>In conclusion, the development of a system that automates the gemstone identification and price prediction process is expected to bring significant benefits to the industry in Sri Lanka. By improving accuracy and efficiency, reducing the risk of human error, and providing valuable market insights, the system will play a critical role in supporting the growth and competitiveness of the gemstone industry.</p>
 
 ### Publications:
 
 [IRJIET, Volume 7, Issue 10, October 2023 pp. 406-416](https://irjiet.com/Volume-7/Issue-10-October-2023/-Gemo-An-AI-Powered-Approach-to-Color-Clarity-Cut-Prediction-and-Valuation-for-Gemstones/1885)
-
-
-
-In conclusion, the development of a system that automates the gemstone identification and price prediction process is expected to bring significant benefits to the industry in Sri Lanka. By improving accuracy and efficiency, reducing the risk of human error, and providing valuable market insights, the system will play a critical role in supporting the growth and competitiveness of the gemstone industry.
